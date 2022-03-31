@@ -1,3 +1,3 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=quanyumath)](https://github.com/quanyumath/github-readme-stats)
 
-**Academic Homepage: quanyu.me**
+**Academic Homepage: www.quanyu.me**
